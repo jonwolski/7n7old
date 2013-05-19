@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-require "Tree"
+require "./Tree"
 ruby_tree = Tree.new(
   "family",
   {'grandpa' => {
