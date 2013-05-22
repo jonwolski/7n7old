@@ -1,0 +1,4 @@
+http://www.learnprolognow.org/
+http://www.gprolog.org/#download
+http://www.csupomona.edu/~jrfisher/www/prolog_tutorial/contents.html
+
