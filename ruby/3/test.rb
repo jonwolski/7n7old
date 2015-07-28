@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-require "acts_as_csv"
+require "./acts_as_csv"
 
 class RubyCsv
   include ActsAsCsv
